@@ -13,6 +13,15 @@ def home():
     <body>
       <h1>Welcome to VirajCloud 🚀</h1>
       <p>Deployment successful via CI/CD</p>
+
+      <h2>Pay via GPay</h2>
+
+      <a href="upi://pay?pa=virajrajput610@okicici&pn=viraj&am=50&cu=INR">
+        <button style="padding:10px 20px; font-size:16px; background:black; color:white; border-radius:5px;">
+          Pay with GPay
+        </button>
+      </a>
+
     </body>
     </html>
     """
